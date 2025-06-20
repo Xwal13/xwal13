@@ -1,4 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/xwal13.png" alt="TryHackMe Badge" />
 
 # 💫 About Me:
 Security researcher passionate about finding vulnerabilities and helping secure the web. Focused on ethical hacking, bug bounties, and real-world impact.
